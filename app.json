@@ -1,7 +1,7 @@
 {
-    "name": "Stranger Music Bot",
+    "name": "Lovely Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
-    "logo": "https://graph.org/file/d3fe3c288fdb37a70ca09.jpg",
+    "logo": "https://telegra.ph/file/2ead11220d1325a9582f1.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -70,12 +70,12 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/golujha9936/strangerbot",
+        "value": "https://github.com/Rishii7205/YuViMuSiC",
         "required": true
       },
       "UPSTREAM_BRANCH": {
         "description": "Upstream Repo's Branch Name",
-        "value": "master",
+        "value": "main",
         "required": true
       }
     },
